@@ -3,6 +3,7 @@ import { View, Text} from 'react-native'
 import {connect} from 'react-redux'
 import Icon from 'react-native-vector-icons/EvilIcons'
 import * as actions from '../actions/index'
+
 // const styles = StyleSheet.create({
 //     container: {
 //         flex: 1,
